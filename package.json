@@ -1,5 +1,5 @@
 {
-  "name": "quikr-typson",
+  "name": "typson",
   "version": "0.6.0",
   "description": "generates json-schema from TypeScript declarations",
   "homepage": "https://github.com/lbovet/typson",
@@ -20,18 +20,6 @@
     {
       "name": "Bart van der Schoor",
       "url": "https://github.com/Bartvds"
-    },
-    {
-      "name": "Sebastian Lind",
-      "url": "https://github.com/sebdm"
-    },
-    {
-      "name": "Peng Wang",
-      "url": "https://github.com/pwang2"
-    },
-    {
-      "name": "João Silva",
-      "url": "https://github.com/janecas"
     }
   ],
   "repository": {
